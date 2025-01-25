@@ -14,3 +14,10 @@ coverage/
 # Temporary files
 cache*.json
 cookies*.json
+
+# Custom documentation and problem tracking
+/z-*.md
+
+# Data directory containing sensitive information
+/data/
+
